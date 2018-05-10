@@ -2,4 +2,4 @@
 
 Hello,
 
-I want to learn more about how to code. 
+I want to learn how to code. 
